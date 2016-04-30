@@ -1,7 +1,7 @@
 Mega Project List
 ========
 
-A list of practical projects that anyone can solve in any programming language. These projects are divided in multiple categories, and each category has its own folder. I started the projects on the list on 3/10/15!
+A list of practical projects that anyone can solve in any programming language. These projects are divided in multiple categories, and each category has its own folder. I started the projects on the list on April 30, 2016 ^o^P
 
 ## Credits
 
