@@ -14,24 +14,24 @@ Problems are motivated by the ones shared at:
 
 ## Table of Contents
 
-- [Numbers](https://github.com/karan/Projects#numbers)
-- [Classic Algorithms](https://github.com/karan/Projects#classic-algorithms)
-- [Graph](https://github.com/karan/Projects#graph)
-- [Data Structures](https://github.com/karan/Projects#data-structures)
-- [Text](https://github.com/karan/Projects#text)
-- [Networking](https://github.com/karan/Projects#networking)
-- [Classes](https://github.com/karan/Projects#classes)
-- [Threading](https://github.com/karan/Projects#threading)
-- [Web](https://github.com/karan/Projects#web)
-- [Files](https://github.com/karan/Projects#files)
-- [Databases](https://github.com/karan/Projects#databases)
-- [Graphics and Multimedia](https://github.com/karan/Projects#graphics-and-multimedia)
-- [Security](https://github.com/karan/Projects#security)
+- [Numbers](https://github.com/BethyDiakabananas/projects#numbers)
+- [Classic Algorithms](https://github.com/BethyDiakabananas/projects#classic-algorithms)
+- [Graph](https://github.com/BethyDiakabananas/projects#graph)
+- [Data Structures](https://github.com/BethyDiakabananas/projects#data-structures)
+- [Text](https://github.com/BethyDiakabananas/projects#text)
+- [Networking](https://github.com/BethyDiakabananas/projects#networking)
+- [Classes](https://github.com/BethyDiakabananas/projects#classes)
+- [Threading](https://github.com/BethyDiakabananas/projects#threading)
+- [Web](https://github.com/BethyDiakabananas/projects#web)
+- [Files](https://github.com/BethyDiakabananas/projects#files)
+- [Databases](https://github.com/BethyDiakabananas/projects#databases)
+- [Graphics and Multimedia](https://github.com/BethyDiakabananas/projects#graphics-and-multimedia)
+- [Security](https://github.com/BethyDiakabananas/projects#security)
 
 Numbers
 ---------
 
-**Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
+[**Find PI to the Nth Digit**] - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
 **Find e to the Nth Digit** - Just like the previous problem, but with e instead of PI. Enter a number and have the program generate e up to that many decimal places. Keep a limit to how far the program will go.
 
