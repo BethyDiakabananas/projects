@@ -1,8 +1,8 @@
-from math import pi
+import math
 
 def pi(n):
 	"""Calculates PI based on the number of digits"""
-	return '%.*f' % (n, pi)
+	return '%.*f' % (n, math.pi)
 
 n = int(raw_input("Enter the number of digits for pi: "))
 while n > 50:
