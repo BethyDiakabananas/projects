@@ -14,23 +14,6 @@ Problems are motivated by the ones shared at:
 
 ## Table of Contents
 
-- [Numbers](https://github.com/jackiehluo/Projects#numbers)
-- [Classic Algorithms](https://github.com/jackiehluo/Projects#classic-algorithms)
-- [Graph](https://github.com/jackiehluo/Projects#graph)
-- [Data Structures](https://github.com/jackiehluo/Projects#data-structures)
-- [Text](https://github.com/jackiehluo/Projects#text)
-- [Networking](https://github.com/jackiehluo/Projects#networking)
-- [Classes](https://github.com/jackiehluo/Projects#classes)
-- [Threading](https://github.com/jackiehluo/Projects#threading)
-- [Web](https://github.com/jackiehluo/Projects#web)
-- [Files](https://github.com/jackiehluo/Projects#files)
-- [Databases](https://github.com/jackiehluo/Projects#databases)
-- [Graphics and Multimedia](https://github.com/jackiehluo/Projects#graphics-and-multimedia)
-- [Security](https://github.com/jackiehluo/Projects#security)
-
-
-## Table of Contents
-
 - [Numbers](https://github.com/karan/Projects#numbers)
 - [Classic Algorithms](https://github.com/karan/Projects#classic-algorithms)
 - [Graph](https://github.com/karan/Projects#graph)
