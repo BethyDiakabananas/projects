@@ -17,4 +17,3 @@ public class PrimeFactorization {
 	} // end method findPrimeFactorization
 } // end PrimeFactorization
 
-} // end PrimeFactorization
