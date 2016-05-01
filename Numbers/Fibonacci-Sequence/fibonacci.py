@@ -8,7 +8,7 @@ def fibonacci(n):
 		n -= 1
 
 def fibonacci_recursive(n):
-	""""Prints n numbers in a fibonacci sequence"""
+	""""Prints n numbers in a fibonacci sequence recursively"""
 	if n <= 1:
 		return n
 	else:
