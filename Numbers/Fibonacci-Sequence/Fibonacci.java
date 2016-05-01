@@ -15,7 +15,7 @@ public class Fibonacci {
 	 * @return a <tt>List</tt> containing n fibonacci numbers
 	 */
 	public List<Integer> fibonacciIterative(int n) {
-		List<Integer> fibonacciSequence = new ArrayList<Integer>();
+		List<Integer> fibonacciSequence = new ArrayList<Integer>(n);
 		int fibonacciNumber = 0;
 		for (int i = 1; i <= n; i++) {
 			fibonacciNumber = (int) (((Math.pow((1 + Math.sqrt(5)), i) - Math.pow((1 - Math.sqrt(5)), i))
