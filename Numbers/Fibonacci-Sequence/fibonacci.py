@@ -6,7 +6,6 @@ def fibonacci(n):
 	while n > 0:
 		print int(((1+sqrt(5))**n-(1-sqrt(5))**n)/(2**n*sqrt(5)))
 		n -= 1
-	return 1
 
 n = int(raw_input("Enter a number for a fibonacci sequence: "))
-print fibonacci(n)
+fibonacci(n)
